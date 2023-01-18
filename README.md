@@ -203,7 +203,7 @@ element.innerHTML = 'Hello, world'
 
 #### ¿Qué es un componente?
 
-Un componente es una pieza de código que renderiza una parte de la interfaz. Los componentes pueden ser parametrizados, reutilizados y pueden contener su propio estado.
+Un componente es una pieza de código que renderiza una parte de la interfaz. Los componentes pueden ser parametrizados, reutilizados y pueden contener su propio estado. De igual forma permiter el uso de JSX 
 
 En React los componentes se crean usando funciones o clases.
 
